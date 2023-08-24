@@ -21,7 +21,7 @@ public class CalculoMediaAluno {
                 notasValidas++;
             } else {
                 System.out.println("Nota inválida! Digite uma nota entre 0 e 10.");
-                i--; // Decrementa o índice para que o loop repita a mesma iteração.
+                i--; 
             }
         }
 
