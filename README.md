@@ -1,8 +1,8 @@
 Programa Entra21
 
-<img src="Escola1"/>
+<img src="Escola1.png"/>
 <br/>
-<img src="Escola2"/>
+<img src="Escola2.png"/>
 
 <h1>Projeto Java: Cálculos de Notas Escolares e Produtos</h1>
 
